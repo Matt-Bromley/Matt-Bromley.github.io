@@ -4,5 +4,17 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
  */
 body {
-  padding-top: 5%;
+  padding-top: 4%;
+}
+
+.heading {
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: 0.1em;
+  
+  margin-bottom: 3%;
+}
+
+.heading h1 {
+  text-align: center;
 }
