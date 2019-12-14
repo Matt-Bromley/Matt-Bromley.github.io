@@ -1,3 +1,33 @@
+
+@font-face {
+  font-family: gameified;
+  src: url(../fonts/Retron2000.ttf);
+}
+
 body {
-    padding-top: 4%;
-  }
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-family: gameified;
+}
+
+div p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading {
+  text-align: center;
+}
+
+.divider {
+margin-bottom: 10%;
+}
+
+.tools {
+  position: absolute;
+  bottom: 0;
+  left: 15;
+}
+
+.thumbnail {
+  height: 300px;
+}

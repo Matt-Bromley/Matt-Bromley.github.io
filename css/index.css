@@ -33,36 +33,6 @@ footer h5 {
   margin-bottom: 3%;
 }
 
-.jumbotron {
-  background: transparent;
-  background-image: URL(../images/banner.png);
-  background-repeat: no-repeat;
-  background-attachment: local;
-  background-position: center;
-  background-size: cover;
-  color: #3A1F0B;
-  padding-left: 5%;
-  padding-right: 6%;
-}
-.jumbotron h1 {
-  border-bottom-color: #3A1F0B;
-  border-bottom-style: solid;
-  border-bottom-width: medium;
-  margin-bottom: 2%;
-}
-.jumbotron p{
-  margin-bottom: 6.5%;
-}
-
 .jumbotron p, .card-text {
   font-family: Arial, Helvetica, sans-serif;
-}
-
-.thumbnail {
-  color: #FFFFFF;
-  background-image: URL(../images/button.png);
-  background-repeat: no-repeat;
-  background-attachment: local;
-  background-position: center;
-  background-size: cover;
 }
