@@ -36,3 +36,17 @@ footer h5 {
 .jumbotron p, .card-text {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/*.jumbotron {
+  background-image: url(../images/background.png);
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.lead {
+  font-family: Arial, Helvetica, sans-serif;
+}*/
